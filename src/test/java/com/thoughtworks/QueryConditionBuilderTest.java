@@ -1,5 +1,6 @@
 package com.thoughtworks;
 
+import com.thoughtworks.builder.QueryConditionBuilder;
 import com.thoughtworks.model.QueryParameters;
 import org.junit.Test;
 
